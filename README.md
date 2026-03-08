@@ -61,7 +61,7 @@ service-booking-backend
 Setup Instructions
 
 1. Clone the Repository
-   git clone https://github.com/YOUR_USERNAME/service-booking-backend.git
+   git clone https://github.com/kalimollah74/Service-booking-backend.git
    cd service-booking-backend
 2. Install Dependencies
    npm install
